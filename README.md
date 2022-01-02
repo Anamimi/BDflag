@@ -1,3 +1,3 @@
 # Flag
 
-!.[BDflag].(screenshot/bdflag.PNG)
+!.[BDflag].(screenshot\bdflag.PNG)
